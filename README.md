@@ -1,4 +1,5 @@
-# LAN-Chat-System
+#  Chat-System
+
 Use socket programming to create a chat system in LAN 
 
 This system work based on server and client side as this way:
@@ -7,4 +8,4 @@ Server Start to listening to a specific port and clients chan connect to that po
 with other clients as private way.
 keywords:
 
-C#, Socket Programming, Server-Client
+C#, Socket Programming, Server-Client, multithreading
