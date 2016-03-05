@@ -9,3 +9,5 @@ with other clients as private way.
 keywords:
 
 C#, Socket Programming, Server-Client, Multithreading
+
+At first start server, to listen to specific port, then connect client to server with same port.
