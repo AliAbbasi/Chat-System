@@ -9,6 +9,8 @@ with other clients as private way.
 
 keywords:
 
-C#, Socket Programming, Server-Client, Multithreading
+C#, Socket Programming, Server-Client, Multithreading.
 
-At first start server, to listen to specific port, then connect client to server with same port.
+How to Use:
+
+First start the server program and listen to a port, then connect each client to that port.
